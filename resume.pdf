@@ -1,0 +1,102 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+  /Font <<
+    /F1 5 0 R
+  >>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 520
+>>
+stream
+BT
+/F1 18 Tf
+50 750 Td
+(ARYAN SINGH) Tj
+0 -30 Td
+/F1 12 Tf
+(Full Stack Developer | Final Year B.Tech CS Student) Tj
+0 -20 Td
+(Email: aryan.singh@email.com) Tj
+0 -15 Td
+(Phone: +1 (555) 123-4567) Tj
+0 -15 Td
+(Location: San Francisco, CA) Tj
+0 -40 Td
+/F1 14 Tf
+(EDUCATION) Tj
+0 -25 Td
+/F1 12 Tf
+(Bachelor of Technology in Computer Science) Tj
+0 -15 Td
+(University of Technology | 2021-2025 (Expected)) Tj
+0 -15 Td
+(CGPA: 8.5/10.0 | Final Year Student) Tj
+0 -30 Td
+/F1 14 Tf
+(EXPERIENCE) Tj
+0 -25 Td
+/F1 12 Tf
+(Full Stack Developer | Personal Projects & Internships) Tj
+0 -15 Td
+(• Built 25+ web applications using React, Node.js, and modern frameworks) Tj
+0 -15 Td
+(• Specialized in creating responsive and user-friendly interfaces) Tj
+0 -30 Td
+/F1 14 Tf
+(SKILLS) Tj
+0 -25 Td
+/F1 12 Tf
+(JavaScript, TypeScript, React, Node.js, Python, MongoDB, PostgreSQL) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000274 00000 n 
+0000000846 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+923
+%%EOF
